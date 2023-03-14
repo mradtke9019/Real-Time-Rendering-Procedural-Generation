@@ -44,4 +44,14 @@ x64
 
 !freeglut.dll
 !glew32.dll
-
+!glfw3.dll
+!glfw3.dll
+!glfw3.lib
+!glfw3_mt.lib
+!glfw3dll.lib
+!glfw3.h
+!glfw3native.h
+!glfw3.dll
+!glfw3.lib
+!glfw3_mt.lib
+!glfw3dll.lib
