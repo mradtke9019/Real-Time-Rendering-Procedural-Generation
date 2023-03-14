@@ -164,11 +164,6 @@
     <ClInclude Include="Shader.h" />
     <ClInclude Include="Sky.h" />
   </ItemGroup>
-  <ItemGroup>
-    <CopyFileToFolders Include="unit_cube.obj">
-      <FileType>Document</FileType>
-    </CopyFileToFolders>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

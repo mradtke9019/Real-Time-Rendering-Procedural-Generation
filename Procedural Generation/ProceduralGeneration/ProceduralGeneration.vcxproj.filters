@@ -99,9 +99,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <CopyFileToFolders Include="unit_cube.obj">
-      <Filter>Resource Files\Models</Filter>
-    </CopyFileToFolders>
-  </ItemGroup>
 </Project>
