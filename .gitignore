@@ -35,9 +35,13 @@
 *.vs
 
 # Build directories
-Minecraft/Minecraft/x64/
+ProceduralGeneration/ProceduralGeneration/x64/
 x64
-/Minecraft/Minecraft/Debug
-/Minecraft/Minecraft/Release
-/Minecraft/Release/Minecraft.pdb
-/Minecraft/Debug
+/ProceduralGeneration/ProceduralGeneration/Debug
+/ProceduralGeneration/ProceduralGeneration/Release
+/ProceduralGeneration/Release/ProceduralGeneration.pdb
+/ProceduralGeneration/Debug
+
+!freeglut.dll
+!glew32.dll
+
